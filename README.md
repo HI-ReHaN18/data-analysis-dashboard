@@ -47,6 +47,11 @@ i created amazon prime vide dashboard, where find the total director and total r
 
 ![image](https://github.com/user-attachments/assets/1bce270b-a354-4454-9c3c-845f060210a2)
 
+# GoodsRead-dashboard
+this GoodsRead dashboard help to define average rating, author and language code. here some lollipop chart to define author by total book and publisher by total books.
+
+![image](https://github.com/user-attachments/assets/a9323c17-a9eb-46f4-ad69-5e295f52fcfb)
+
 
 
 
